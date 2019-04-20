@@ -29,7 +29,7 @@ int main()
         dzielniki.push_back(tmp);
     }
 
-
+    
     cout << "Dzielniki:" << endl;
     for (int i=0; i<n; i++){
         cout << i+1 << ": ";
