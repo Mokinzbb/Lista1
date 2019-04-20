@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555464330 source:c:\users\zolic_gecv9xe\onedrive\pulpit\lista 1 wersja 2\zad3\main.cpp
+	<iostream>
+	<list>
+	<vector>
+
